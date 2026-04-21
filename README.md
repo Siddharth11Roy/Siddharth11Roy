@@ -27,23 +27,29 @@
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 🌟 Featured Projects
-- **Data-vista Disaster Management**  
-  Real-time disaster data workflows and insights for response planning.
-- **Project 2**  
-  One-line value statement.
-- **Project 3**  
-  One-line value statement.
-- **Project 4**  
-  One-line value statement.
+## Pinned Projects
 
-### 📊 GitHub Stats
-<p align="center">
+- [tldraw-claude-mcp](https://github.com/Siddharth11Roy/tldraw-claude-mcp)  
+  Live MCP tool integration for Claude with skills support.
+
+- [Auto-EDA](https://github.com/Siddharth11Roy/Auto-EDA)  
+  Automated exploratory data analysis pipeline without external APIs/LLMs.
+
+- [Data-vista-Disaster-Management](https://github.com/Siddharth11Roy/Data-vista-Disaster-Management)  
+  Disaster-data driven monitoring and response visualization project.
+
+- [imagepreprocessor](https://github.com/Siddharth11Roy/imagepreprocessor)  
+  Python image preprocessing utilities for ML/computer vision workflows.
+
+- [XSA-gpt-arch-implementation](https://github.com/Siddharth11Roy/XSA-gpt-arch-implementation)  
+  GPT-style architecture implementation focused on self-attention internals.
+
+- [agentic-stack](https://github.com/codejunkie99/agentic-stack)  
+  Portable multi-agent framework with memory, skills, and protocol support.
+
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Siddharth11Roy&show_icons=true&theme=tokyonight" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth11Roy&layout=compact&theme=tokyonight" height="170" />
-</p>
+</p> -->
 
-### 📫 Connect
-- LinkedIn: `your-link`
-- Portfolio: `your-link`
-- Email: `your-email`
