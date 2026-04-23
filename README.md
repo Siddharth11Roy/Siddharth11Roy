@@ -2,7 +2,7 @@
 
 AI/ML Engineer focused on building production-grade ML systems, LLM applications, and intelligent automation.
 
-## Expertise
+## Knowledge ground
 
 - Large Language Models (LLMs), RAG pipelines, and memory-augmented agentic systems
 - Multi-agent orchestration, retrieval workflows, and context-aware chatbot architecture
