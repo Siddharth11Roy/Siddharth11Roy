@@ -22,7 +22,7 @@ I build agents that run for a long time and remember what they did. Right now th
 ## GitHub at a glance
 
 <p align="center">
-  <img src="./metrics.overview.svg" alt="Commits, pull requests opened and reviewed, issues, stars and achievements" width="100%"/>
+  <img src="./metrics.overview.svg" alt="Commits, pull requests opened, reviewed and merged, stars and followers" width="100%"/>
 </p>
 
 <p align="center">
@@ -46,10 +46,6 @@ I build agents that run for a long time and remember what they did. Right now th
 <p align="center">
   <img src="./metrics.calendar.svg" alt="Isometric contribution calendar" width="49%"/>
   <img src="./metrics.languages.svg" alt="Most used languages" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="./metrics.habits.svg" alt="Coding habits and lines changed over time" width="100%"/>
 </p>
 
 <p align="center">
