@@ -1,0 +1,25 @@
+# Profile summary cards (contributions chart, stats, productive time, languages).
+# Uses the same METRICS_TOKEN secret as metrics.yml. Renders every theme; the
+# README shows github_dark or github to match the viewer's color scheme.
+name: Summary cards
+
+on:
+  schedule: [{ cron: "0 1 * * *" }]   # daily, after metrics
+  workflow_dispatch:
+
+concurrency: summary-cards
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 5.5
