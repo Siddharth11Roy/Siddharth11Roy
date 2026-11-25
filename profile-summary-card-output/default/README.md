@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Siddharth11Roy/Siddharth11Roy/main/profile-summary-card-output/default/4-productive-time.svg)
-```
-
-    
