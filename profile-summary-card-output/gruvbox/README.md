@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Siddharth11Roy/Siddharth11Roy/main/profile-summary-card-output/gruvbox/4-productive-time.svg)
+```
+
+    
